@@ -7,4 +7,4 @@
 
 <br>
   <a href="https://www.instagram.com/kk3tillen__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/596375" target="_blank"><img src="https://i.pinimg.com/favicons/946fab31541a78a7c2196423af253cdd0654a9abfaf8f01614c57bd0.ico?e43f735e83c7f5ee9dfdad5ef2a9640c" target="_blank"></a> 
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/596375" target="_blank"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a> 
