@@ -7,4 +7,4 @@
 
 <br>
   <a href="https://www.instagram.com/kk3tillen__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.beecrowd.com.br/judge/pt/profile/596375" target="_blank"><img src="https://www.beecrowd.com.br/home/wp-content/uploads/2021/08/beecrowd__roxoHorClean-small-PNG-1.png" target="_blank"></a> 
+  <a href="https://www.beecrowd.com.br/judge/pt/profile/596375" target="_blank"><img src="https://maratona.muz.ifsuldeminas.edu.br/patrocinadores/coopam.png" target="_blank"></a> 
