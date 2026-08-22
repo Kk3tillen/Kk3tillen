@@ -107,3 +107,10 @@ Me chamo Kézia Ketillen Santos Lima, tenho 22 anos e sou natural do Rio Grande 
 
 <br/>
 <br/>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kk3tillen/Kk3tillen/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kk3tillen/Kk3tillen/output/snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Kk3tillen/Kk3tillen/output/snake.svg">
+</picture>
